@@ -31,14 +31,14 @@ a {
 
 .content__img {
     position: absolute;
-    width: 100%;
+    width: 50%;
     margin-top: 5%;
-    transform: translate(50%,0%);
+    transform: translate(100%,0%);
 }
 
 .content__img img {
     position: absolute;
-    width: 50%;
+    width: 100%;
 }
 
 .content__ttl {
